@@ -1,0 +1,76 @@
+website : collection of webpages that are connected together browser
+webpage : It is a document that displays content in the browsers.
+
+static webpage: it is webpage where the content is fixed
+HTML - structure
+css -styling
+bootstrap 
+
+Dynamic webpage : where user can interact 
+JS - dynamic nature
+framework - collection of pre defined code
+react-js   - framework
+
+HTML (hypertext markup language)
+------
+hypertext - text reference to other text 
+markup - a set of rules that defines how content should be displayed
+
+It is a standard markup language that is used to create structure for 
+webpage .it contains series of elements that are represented by tags
+
+tags 
+----
+<reserved word> open tag
+</reserved word>
+
+
+element
+open tag + content + closing tag 
+
+
+container tags or pair tags 
+<res>content</res>
+
+<!Doctype html>--- delcaration 
+it is root element to the webpage 
+
+<1 -- 
+ctrl /---comment 
+-->
+
+heading tags 
+------------
+h1-h6
+
+paragraph 
+---------
+p tag is used to define paragraph text 
+          
+anchor tag
+-----------
+is used for external and internal routing
+        
+external routing 
+absolute -- which have complete URL 
+<a href="link"></a>    
+
+
+attributes
+----------- 
+which provide extra information about the tag
+href = 'link'
+target = '_self' - displays within the page
+target = '_blank' - displays another page 
+
+list tags
+---------
+ordered list
+------------
+orered list is defined with ol tags - <ol></ol>
+list items are defined with li tags - <li></li>
+
+unordered list
+--------------
+unordered list is defined with ul tag <ul></ul>
+list items are defined with li tags <li></li>
