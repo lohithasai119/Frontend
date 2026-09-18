@@ -1,0 +1,56 @@
+
+tags are derived based on the behaviour
+1) block level elements-
+-------------------------
+are the elements which occupies total space and always start on
+a newline 
+ex: div,p,table,form
+
+div 
+---
+division element that is used group the elements for applying styles 
+
+2)Inline elements
+------------------
+are the elements whichtakes neccessary space and doesn't start on 
+a newline 
+ex: span,a,img,input 
+
+span 
+span element is used to group the text for applying styles 
+
+forms 
+=====
+it is used to collect  the information from the user and allowing 
+user to submit the data to the server 
+-> login,resgister,contact,crud operations
+
+forms are defined with form tag
+form textfields are defined with input tag
+label tag is used provide the hint about the input tag
+
+Attributes
+----------
+type it is used  control the text field 
+type='text'
+type='number'
+
+placeholder
+-----------
+it provides the hint about the input to user 
+
+for and id 
+-----------
+it is used  link the input to label
+
+name 
+----
+it is used to carry the data to the backend as key 
+
+formsaction
+-----------
+form action=""
+action- it specifies where the 
+
+
+semantics 
