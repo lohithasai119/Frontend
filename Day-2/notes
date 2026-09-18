@@ -1,0 +1,65 @@
+Tables
+-------
+--Tables are defined with table tag 
+<table> </table>
+--Rows are defined with tr tag 
+<tr> </tr>
+--Columns or cells are defined with td tags 
+<td> </td>
+-- Cell headings are defined with 
+<th> </th>
+
+attribtues
+----------
+**border=1
+**cell padding=3 it creates the space inside the cell
+**cellspacing=3 it creates  the space around the cell
+**width =30% 
+**heigth=there is no ending point so we didnt give the percentage
+so we shild give in pixels
+
+How to add images
+-----------------
+we have 2 ways to add images
+1.absolute path
+<img src=''>
+--It is self closing tag
+atrributes
+----------
+**width in percentage
+**heigth in pixels
+**alt-display the text replace of image if image is break then the user the image is there
+2.relative path
+in this we  take the image from our device
+
+Internal Rounting
+----------------------
+fisrt we give # after give link
+
+Github
+------
+---It is platform that is used to store and modified the project related fils or code
+
+Git
+----
+---Version control system 
+---It is a software that is used track changes in a set of files
+
+git componets
+---------------
+working directory------->staging area-------->remote hosting
+
+commands
+--------
+1.git init
+2.git add .
+3.git commit -m 'msg'
+4.git branch -m main
+5.git remote add orgin 'url'
+6.git push -u origin main
+
+step-1:git config --list
+step-2:git config --global user.name "YalamanchiLavanya"
+step-3:git config --global user.email "lavanyayalamanchi2005@gmail.com"
+step-4:git config --list
+
